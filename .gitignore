@@ -1,0 +1,4 @@
+.vagrant/
+*.zip
+*.vdi
+notes.txt
